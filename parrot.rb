@@ -3,6 +3,7 @@
 def parrot(noise = "Squawk!")
   if noise = "Squawk!"
     puts "Squawk!"
+    print "Squawk!"
   else puts "Pretty Bird!"
   end
 end
